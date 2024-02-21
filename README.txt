@@ -16,5 +16,7 @@ Gradle 8.1
 
 Realizar el importe de todas las librerias necesarias
 
+Debez cambiar la data que se encuentra en la carpaeta datadriven
+
 Para ejecutar las pruebas, utiliza el siguiente comando:
 ./gradlew clean test
