@@ -1,0 +1,7 @@
+Detalle de algunos productos genera error: Es importante resolver este problema porque los usuarios pueden perder la confianza en la tienda si encuentran errores al intentar ver los detalles de ciertos productos. Esto podría resultar en una mala experiencia de usuario y en la pérdida de ventas.
+
+Título de los productos contiene funciones de programación: Este problema podría confundir a los usuarios y hacer que los productos sean difíciles de encontrar mediante la búsqueda. Resolverlo es crucial para mejorar la usabilidad y la accesibilidad de la tienda virtual.
+
+Artículos tienen el mismo precio: Si varios productos tienen el mismo precio, puede resultar en confusión para los usuarios y dificultar la toma de decisiones de compra. Es esencial resolver este problema para garantizar una fijación de precios precisa y justa.
+
+Las descripciones no tienen el mismo precio: Si las descripciones de los productos no coinciden con sus precios, esto puede generar desconfianza en los usuarios y hacer que duden en realizar una compra. Es necesario resolver este problema para mantener la integridad y la precisión de la información del producto.
