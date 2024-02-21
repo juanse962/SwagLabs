@@ -6,4 +6,4 @@
 
 4. Navegación intuitiva: Diseña una navegación clara el login tiene un footer muy alto y sencilla que facilite a los usuarios encontrar los productos que buscan de manera rápida y eficiente.
 
-5. Las descripciones no tienen el mismo precio: Si las descripciones de los productos no coinciden con sus precios, esto puede generar desconfianza en los usuarios y hacer que duden en realizar una compra. Es necesario resolver este problema para mantener la integridad y la precisión de la información del producto.
+5. Las descripciones no coinciden con el articulo: Si las descripciones de los productos no coinciden con sus precios, esto puede generar desconfianza en los usuarios y hacer que duden en realizar una compra. Es necesario resolver este problema para mantener la integridad y la precisión de la información del producto.
