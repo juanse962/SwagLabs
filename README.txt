@@ -13,7 +13,8 @@ Gradle: es una herramienta de compilación de código abierto con un enfoque en 
 Se requiere Java versión 8 o superior.
 
 Gradle 8.1
- realizar el importe de todas las librerias necesarias
+
+Realizar el importe de todas las librerias necesarias
 
 Para ejecutar las pruebas, utiliza el siguiente comando:
 ./gradlew clean test
