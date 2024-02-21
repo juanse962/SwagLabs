@@ -21,4 +21,4 @@ Feature: Yo como usuario quiero probar el escenario de compra en el sitio Swag L
     Examples:
       | url                       | usuario       | contrasena   | nombreProducto     | nombreProducto2       | mensajeExitoso                   | nombre  | apellido | zip    |
       ##@externaldata@src/test/resources/datadriven/data.xlsx@usuarios
-   |https://www.saucedemo.com   |standard_user   |secret_sauce   |Sauce Labs Backpack   |Sauce Labs Bike Light   |Thank you for your order!   |usuario   |choucair   |470003|
+   |https://www.saucedemo.com   |standard_user   |secret_sauce   |Sauce Labs Backpack   |Sauce Labs Bike Light   |Thank you for your order!   |usuario   |pruebas   |470003|
