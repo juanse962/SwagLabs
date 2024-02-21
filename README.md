@@ -13,3 +13,9 @@ Cucumber: is a tool that supports behavior-driven development (BDD). Cucumber re
 ScreenPlay is a design pattern for quality automation and its behavior revolves around the Behaviour Driven Development (BDD) methodology.
 
 Gradle: is an open source compilation automation tool with a focus on flexibility and performance.
+
+Para ejecutar las pruebas, utiliza el siguiente comando:
+
+```bash
+./gradlew clean test
+
