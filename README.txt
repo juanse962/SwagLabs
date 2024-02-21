@@ -1,8 +1,6 @@
 Detalles generales de la implementación:
 Las tecnologías utilizadas para el desarrollo de las pruebas automatizadas son las siguientes:
-
-Karate DSL: Para la implementación de las APIs.
-Appium para la automatización móvil requiere tener previamente instalado un emulador y servidor Appium para ejecutar la prueba.
+=
 
 Serenity BDD: es una biblioteca de código abierto que tiene como objetivo hacer realidad la idea de documentación viva. Ayuda a escribir pruebas de regresión y aceptación automatizadas más limpias y fáciles de mantener. Serenity también utiliza los resultados de las pruebas para producir informes ilustrados y narrativos que documentan y describen qué hace la aplicación y cómo funciona.
 
